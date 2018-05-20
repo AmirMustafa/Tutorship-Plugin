@@ -13,19 +13,17 @@ Students have to enable their timeslot according to teaacher's chosen and book u
 
 ##Looks
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866280/8fbf4bf0-ba4f-11e6-9cc3-b18f46e4d9fe.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Teacher SLot Enable View](https://user-images.githubusercontent.com/15896579/40282171-daba317e-5c88-11e8-89b7-6e4e05dafe23.png?raw=true "Screenshot of Teacher SLot Enable View")
 <br/><br/><br/>
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866278/8fb8b38a-ba4f-11e6-8920-6babb659800c.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Student SLot Reservation View1](https://user-images.githubusercontent.com/15896579/40282173-e220e976-5c88-11e8-9b35-876376c2a0d0.png?raw=true "Screenshot of Student SLot Reservation View1")
 <br/><br/><br/>
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866279/8fbf3da4-ba4f-11e6-837b-5803cd7a7798.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Student SLot Reservation View 2](https://user-images.githubusercontent.com/15896579/40282174-e73136a0-5c88-11e8-9bc9-c1a77a3af72e.png?raw=true "Screenshot of Student SLot Reservation View 2")
 <br/><br/><br/>
 
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866282/8fc07a7a-ba4f-11e6-9b4a-4ca2257720bd.PNG?raw=true "Screenshot of To-Do App")
+![Screenshot of Student SLot Reservation View 3](https://user-images.githubusercontent.com/15896579/40282175-ec68e104-5c88-11e8-8164-a9ab490504ae.png?raw=true "Screenshot of Student SLot Reservation View 3")
 <br/><br/><br/>
-
-![Screenshot of To-Do App](https://cloud.githubusercontent.com/assets/15896579/20866281/8fbf92ea-ba4f-11e6-93dd-e65eaa0cfab6.PNG?raw=true "Screenshot of To-Do App")
 <br/><br/><br/>
 ## License
 
