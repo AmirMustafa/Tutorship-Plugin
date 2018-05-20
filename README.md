@@ -1,8 +1,8 @@
 # Tutorship-Plugin - Moodle 3.2
 This plugin is developed for Moodle 3.2 (PHP CMS). Teachers can enable their shedule according to their time period for students. Student on the other hande any where accross the world(different timezones can access it).
-Students have to enable their timeslot according to teaacher's chosen and book unique timeslot for their session.
+Students have to enable their timeslot according to teacher's chosen and book unique timeslot for their session.
 
-##Requirements
+## Requirements
 - Install Moodle 3.2 PHP CMS
 - Install this plugin through admin
 
