@@ -1,0 +1,30 @@
+.borderClass
+{
+	border: solid 1px #666;
+}
+
+.borderClass > td
+{
+	border: solid 1px #666;
+}
+
+
+.felement
+{
+	text-align: left !important;
+}
+
+
+body.noMargin {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+iframe.tutorshiproom {
+	border: 0;
+	width: 100%;
+	height: 640px !important;
+}
+iframe.wholeWindow {
+	height: 100% !important;
+}
